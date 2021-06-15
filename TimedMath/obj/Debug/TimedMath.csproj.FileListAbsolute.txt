@@ -1,0 +1,10 @@
+C:\Users\TechnoM4ncer\source\repos\TimedMath\TimedMath\bin\Debug\TimedMath.exe.config
+C:\Users\TechnoM4ncer\source\repos\TimedMath\TimedMath\bin\Debug\TimedMath.exe
+C:\Users\TechnoM4ncer\source\repos\TimedMath\TimedMath\bin\Debug\TimedMath.pdb
+C:\Users\TechnoM4ncer\source\repos\TimedMath\TimedMath\obj\Debug\TimedMath.csprojAssemblyReference.cache
+C:\Users\TechnoM4ncer\source\repos\TimedMath\TimedMath\obj\Debug\TimedMath.Form1.resources
+C:\Users\TechnoM4ncer\source\repos\TimedMath\TimedMath\obj\Debug\TimedMath.Properties.Resources.resources
+C:\Users\TechnoM4ncer\source\repos\TimedMath\TimedMath\obj\Debug\TimedMath.csproj.GenerateResource.cache
+C:\Users\TechnoM4ncer\source\repos\TimedMath\TimedMath\obj\Debug\TimedMath.csproj.CoreCompileInputs.cache
+C:\Users\TechnoM4ncer\source\repos\TimedMath\TimedMath\obj\Debug\TimedMath.exe
+C:\Users\TechnoM4ncer\source\repos\TimedMath\TimedMath\obj\Debug\TimedMath.pdb
